@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-05T15:26:46 IST" name="Default suite" finished-at="2023-12-05T15:27:02 IST" duration-ms="15974">
+    <groups>
+    </groups>
+    <test started-at="2023-12-05T15:26:46 IST" name="Default test" finished-at="2023-12-05T15:27:02 IST" duration-ms="15974">
+      <class name="pages.homeLoginPage">
+        <test-method is-config="true" signature="configurations()[pri:0, instance:pages.homeLoginPage@3b69e7d1]" started-at="2023-12-05T15:26:46 IST" name="configurations" finished-at="2023-12-05T15:26:52 IST" duration-ms="5604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configurations -->
+        <test-method signature="verifyhomePageTitle()[pri:0, instance:pages.homeLoginPage@3b69e7d1]" started-at="2023-12-05T15:26:52 IST" name="verifyhomePageTitle" finished-at="2023-12-05T15:26:52 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyhomePageTitle -->
+        <test-method signature="verifyLoginButton()[pri:1, instance:pages.homeLoginPage@3b69e7d1]" started-at="2023-12-05T15:26:52 IST" name="verifyLoginButton" finished-at="2023-12-05T15:26:52 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginButton -->
+        <test-method signature="verifyMobileFieldBox()[pri:2, instance:pages.homeLoginPage@3b69e7d1]" started-at="2023-12-05T15:26:52 IST" name="verifyMobileFieldBox" finished-at="2023-12-05T15:26:52 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMobileFieldBox -->
+        <test-method signature="correctMobileNo()[pri:3, instance:pages.homeLoginPage@3b69e7d1]" started-at="2023-12-05T15:26:52 IST" name="correctMobileNo" finished-at="2023-12-05T15:27:01 IST" duration-ms="8884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctMobileNo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pages.homeLoginPage@3b69e7d1]" started-at="2023-12-05T15:27:01 IST" name="tearDown" finished-at="2023-12-05T15:27:02 IST" duration-ms="1122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pages.homeLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
